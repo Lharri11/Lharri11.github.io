@@ -22,7 +22,7 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
-[![Video Link](https://img.youtube.com/vi/sy3cjqj-RZE/0.jpg)](https://www.youtube.com/watch?v=sy3cjqj-RZE)
+{% video https://www.youtube.com/watch?v=sy3cjqj-RZE 640 320 https://img.youtube.com/vi/sy3cjqj-RZE/0.jpg %}
 
 Here's a code chunk:
 

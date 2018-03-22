@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba890338-17fa-4c9b-8ade-6e71753cd988" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/Test Video.mp4" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-02-28-test-markdown.md" afterPath="$PROJECT_DIR$/_posts/2015-02-28-test-markdown.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +16,11 @@
       <file leaf-file-name="2015-02-28-test-markdown.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-02-28-test-markdown.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="525">
+                <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
                 <folding>
-                  <marker date="1521700007291" expanded="true" signature="1012:1032" ph="{...}" />
+                  <marker date="1521702194148" expanded="true" signature="1014:1034" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -45,6 +42,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/_posts/2015-02-28-test-markdown.md" />
       </list>
     </option>
   </component>
@@ -240,12 +238,12 @@
       <option name="presentableId" value="Default" />
       <updated>1521699787175</updated>
       <workItem from="1521699788346" duration="85000" />
-      <workItem from="1521699918767" duration="1234000" />
+      <workItem from="1521699918767" duration="2283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1319000" />
+    <option name="totallyTimeSpent" value="2368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="2418" height="1318" extended-state="6" />
@@ -343,11 +341,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-02-28-test-markdown.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="525">
+            <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
             <folding>
-              <marker date="1521700007291" expanded="true" signature="1012:1032" ph="{...}" />
+              <marker date="1521702194148" expanded="true" signature="1014:1034" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
