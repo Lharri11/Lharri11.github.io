@@ -22,10 +22,7 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
-
-How about a yummy crepe?
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+[![Video Link](https://img.youtube.com/vi/sy3cjqj-RZE/0.jpg)](https://www.youtube.com/watch?v=sy3cjqj-RZE)
 
 Here's a code chunk:
 
