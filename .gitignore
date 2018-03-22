@@ -5,6 +5,6 @@ _site
 
 # general
 .DS_Store
-.idea
+.idea/
 Thumbs.db
 ehthumbs.db
