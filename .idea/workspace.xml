@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba890338-17fa-4c9b-8ade-6e71753cd988" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/plugins/backtick_code_block.rb" afterPath="$PROJECT_DIR$/_plugins/backtick_code_block.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/blockquote.rb" afterPath="$PROJECT_DIR$/_plugins/blockquote.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/category_generator.rb" afterPath="$PROJECT_DIR$/_plugins/category_generator.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/code_block.rb" afterPath="$PROJECT_DIR$/_plugins/code_block.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/config_tag.rb" afterPath="$PROJECT_DIR$/_plugins/config_tag.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/gist_tag.rb" afterPath="$PROJECT_DIR$/_plugins/gist_tag.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/haml.rb" afterPath="$PROJECT_DIR$/_plugins/haml.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/image_tag.rb" afterPath="$PROJECT_DIR$/_plugins/image_tag.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/include_array.rb" afterPath="$PROJECT_DIR$/_plugins/include_array.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/include_code.rb" afterPath="$PROJECT_DIR$/_plugins/include_code.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/jsfiddle.rb" afterPath="$PROJECT_DIR$/_plugins/jsfiddle.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/octopress_filters.rb" afterPath="$PROJECT_DIR$/_plugins/octopress_filters.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/pullquote.rb" afterPath="$PROJECT_DIR$/_plugins/pullquote.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/pygments_code.rb" afterPath="$PROJECT_DIR$/_plugins/pygments_code.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/raw.rb" afterPath="$PROJECT_DIR$/_plugins/raw.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/render_partial.rb" afterPath="$PROJECT_DIR$/_plugins/render_partial.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/titlecase.rb" afterPath="$PROJECT_DIR$/_plugins/titlecase.rb" />
-      <change beforePath="$PROJECT_DIR$/plugins/video_tag.rb" afterPath="$PROJECT_DIR$/_plugins/video_tag.rb" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-02-28-test-markdown.md" afterPath="$PROJECT_DIR$/_posts/2015-02-28-test-markdown.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,24 +13,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="2015-02-28-test-markdown.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2015-02-28-test-markdown.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-02-28-test-markdown.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="504">
-                <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="108" />
-                <folding />
+              <first_editor relative-caret-position="268">
+                <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+                <folding>
+                  <marker date="1521706620246" expanded="true" signature="1141:1161" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="video_tag.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="video_tag.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_plugins/video_tag.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="12" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -89,9 +72,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/_posts/2015-02-28-test-markdown.md" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2015-02-28-test-markdown.md" />
       </list>
     </option>
   </component>
@@ -294,12 +277,12 @@
       <workItem from="1521699788346" duration="85000" />
       <workItem from="1521699918767" duration="2283000" />
       <workItem from="1521703769134" duration="2228000" />
-      <workItem from="1521706176899" duration="51000" />
+      <workItem from="1521706176899" duration="444000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4647000" />
+    <option name="totallyTimeSpent" value="5040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="2418" height="1318" extended-state="6" />
@@ -357,7 +340,9 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="504">
             <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="108" />
-            <folding />
+            <folding>
+              <marker date="1521706620246" expanded="true" signature="1141:1161" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -384,7 +369,9 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+            <folding>
+              <marker date="1521706620246" expanded="true" signature="1141:1161" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -433,22 +420,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-02-28-test-markdown.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="504">
-            <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="108" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_plugins/video_tag.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="12" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_plugins/video_tag.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/_posts/2015-02-28-test-markdown.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="268">
+            <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            <folding>
+              <marker date="1521706620246" expanded="true" signature="1141:1161" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
