@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41be3d8f-1da2-4982-b3a8-94dee3d7b093" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="64" column="22" lean-forward="false" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
+            <state relative-caret-position="549">
+              <caret line="62" column="142" lean-forward="false" selection-start-line="62" selection-start-column="142" selection-end-line="62" selection-end-column="142" />
               <folding>
                 <element signature="e#2330#2336#0" expanded="true" />
               </folding>
@@ -56,6 +57,7 @@
       <find>MGSP Knowledge Base</find>
       <find>posted on</find>
       <find>posted</find>
+      <find>Previous Post</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -260,12 +262,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522004716451</updated>
       <workItem from="1522004725796" duration="288000" />
-      <workItem from="1522021389699" duration="2860000" />
+      <workItem from="1522021389699" duration="4101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13054000" />
+    <option name="totallyTimeSpent" value="14295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -644,8 +646,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="64" column="22" lean-forward="false" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
+        <state relative-caret-position="549">
+          <caret line="62" column="142" lean-forward="false" selection-start-line="62" selection-start-column="142" selection-end-line="62" selection-end-column="142" />
           <folding>
             <element signature="e#2330#2336#0" expanded="true" />
           </folding>

@@ -58,6 +58,11 @@ layout: base
           <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">Next Post &rarr;</a>
         </li>
         {% endif %}
+        {% if page.previous.url == null %}
+        <li class="previous">
+          <a href="{{ site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Return Home</a>
+        </li>
+        {% endif %}-->
       </ul>
 
       {% if page.comments %}
