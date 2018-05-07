@@ -24,7 +24,7 @@ description: A tutorial resource for Users of the Master Gardener Pollinator Res
 # List of links in the navigation bar
 navbar-links:
   Resources:
-    - Web Application: "https://www.mastergardeners.duckdns.org/Master-Gardener/home"
+    - Web Application: "https://www.pollinatorpreferences.duckdns.org/Master-Gardener/home"
     - Penn State Extension: "https://extension.psu.edu/programs/master-gardener"
     - Contact Us: "https://www.ycp.edu/academics/academic-departments/engineering-and-computer-science/programs/computer-science/"
 
